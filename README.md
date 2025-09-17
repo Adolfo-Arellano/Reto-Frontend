@@ -18,8 +18,8 @@ https://adolfo-arellano.github.io/Reto-Frontend/
 1. **Clonar o descargar**
    - Git:  
      ```bash
-     git clone <URL-del-repo>
-     cd <nombre-del-repo>
+     git clone https://github.com/Adolfo-Arellano/Reto-Frontend.git
+     cd Reto-Frontend
      ```
    - O descarga el **ZIP** desde GitHub y descomprímelo.
 2. **Abrir `index.html` en el navegador (elige una)**
