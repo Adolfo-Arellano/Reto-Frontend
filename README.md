@@ -1,6 +1,6 @@
 # HC Store — Landing Page (HTML/CSS/JS) 👋
 
-Pequeña landing page responsive hecha con HTML, CSS y JS.
+Landing page responsive hecha con HTML, CSS y JS.
 Incluye un **header**, **hero**, **tres tarjetas de producto** y **footer** de contacto.  
 La interacción en JS permite cambiar la **imagen/color** del producto mediante **swatches**.
 
