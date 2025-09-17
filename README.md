@@ -42,3 +42,5 @@ https://adolfo-arellano.github.io/Reto-Frontend/
   - Swatches con `aria-pressed="true/false"` para indicar el activo.
 - **Responsive:**
   - Grid de productos con `repeat(auto-fit, minmax(320px, 1fr))`, que se adapta de 1 a 3 columnas según el ancho.
+
+> Rama creada solamente para el reto-feedback
