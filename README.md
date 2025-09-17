@@ -4,8 +4,11 @@ Pequeña landing page responsive hecha con HTML, CSS y JS.
 Incluye un **header**, **hero**, **tres tarjetas de producto** y **footer** de contacto.  
 La interacción en JS permite cambiar la **imagen/color** del producto mediante **swatches**.
 
+## Demo
+https://adolfo-arellano.github.io/Reto-Frontend/
+
 ## Qué incluye
-- **Header** con logo y navegación 8(Inicio / Productos / Contacto).
+- **Header** con logo y navegación (Inicio / Productos / Contacto).
 - **Hero** con título, subtítulo y botón que hace scroll a *Productos*.
 - **Sección de 3 tarjetas** (imagen, título, texto y swatches).
 - **Footer** con teléfono, email y redes.
